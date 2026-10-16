@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ohaneze_Blockchain
+- 👋 we are the MED-ENGINE 
 - 👀 I’m interested in any web development job 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on anyone in the field
